@@ -1,0 +1,1 @@
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail.UWP\OpenWithMail.UWP.csproj;x86

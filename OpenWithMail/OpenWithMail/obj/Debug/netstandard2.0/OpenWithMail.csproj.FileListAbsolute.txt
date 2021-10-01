@@ -1,0 +1,15 @@
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\bin\Debug\netstandard2.0\OpenWithMail.deps.json
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\bin\Debug\netstandard2.0\OpenWithMail.dll
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\bin\Debug\netstandard2.0\ref\OpenWithMail.dll
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\bin\Debug\netstandard2.0\OpenWithMail.pdb
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.AssemblyInfoInputs.cache
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.AssemblyInfo.cs
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.csproj.CoreCompileInputs.cache
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.dll
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\ref\OpenWithMail.dll
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.pdb
+C:\Users\SimoneAgnoletti\source\repos\OpenWithMail\OpenWithMail\OpenWithMail\obj\Debug\netstandard2.0\OpenWithMail.csproj.AssemblyReference.cache
